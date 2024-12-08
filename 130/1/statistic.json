@@ -1,0 +1,11 @@
+{"summary":"count","feature_11":"750"}
+{"summary":"mean","feature_11":"66.22745050997271"}
+{"summary":"stddev","feature_11":"15.84112966591772"}
+{"summary":"min","feature_11":"38.661267623399524"}
+{"summary":"max","feature_11":"93.61276418162505"}
+[
+    {
+        "skew": 0.018670941624322278,
+        "kurt": -1.2362067527270122
+    }
+]
